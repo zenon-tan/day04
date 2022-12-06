@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../day04-workshop"
+		},
+		{
+			"path": "../../day03-workshop/src"
+		}
+	],
+	"settings": {}
+}
